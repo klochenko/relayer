@@ -1,8 +1,0 @@
-{
-  "chain-id": "STRIDE-TESTNET-2",
-  "rpc-addr": "94.130.200.205:16657",
-  "account-prefix": "stride",
-  "gas-adjustment": 1.5,
-  "gas-prices": "0.025ustrd",
-  "trusting-period": "8h"
-}
