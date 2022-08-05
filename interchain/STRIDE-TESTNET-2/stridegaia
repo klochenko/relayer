@@ -1,0 +1,20 @@
+{
+    "src": {
+      "chain-id": "STRIDE-TESTNET-2",
+      "client-id": "07-tendermint-0",
+      "connection-id": "connection-0",
+      "channel-id": "channel-0",
+      "port-id": "transfer",
+      "order": "unordered",
+      "version": "ics20-1"
+    },
+    "dst": {
+      "chain-id": "GAIA",
+      "client-id": "07-tendermint-0",
+      "connection-id": "connection-0",
+      "channel-id": "channel-0",
+      "port-id": "transfer",
+      "order": "unordered",
+      "version": "ics20-1"
+    }
+}
